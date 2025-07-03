@@ -1,3 +1,5 @@
+
+
 export const categories = [
   { id: '1', name: 'Ahorro', icon: 'ahorro' },
   { id: '2', name: 'Comida', icon: 'comida' },

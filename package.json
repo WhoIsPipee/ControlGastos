@@ -12,13 +12,20 @@
   "dependencies": {
     "@headlessui/react": "^2.2.4",
     "@heroicons/react": "^2.2.0",
+    "prop-types": "^15.8.1",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-calendar": "^6.0.0",
+    "react-circular-progressbar": "^2.2.0",
+    "react-date-picker": "^11.0.0",
+    "react-dom": "^19.1.0",
+    "react-swipeable-list": "^1.10.0",
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.29.0",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
+    "@types/uuid": "^10.0.0",
     "@vitejs/plugin-react-swc": "^3.10.2",
     "autoprefixer": "^10.4.21",
     "eslint": "^9.29.0",
